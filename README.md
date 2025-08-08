@@ -28,7 +28,7 @@ Atualmente estou a procura de estágio ou vaga como desenvolvedor, e desenvolven
   <a href="https://www.linkedin.com/in/matheus-alves-936139239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/matheus11.12/profilecard/?igsh=MXIwNno3MnJIYTk2NA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  ### GitHub Stats
+  ### Estatísticas do Github
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheusmhz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
